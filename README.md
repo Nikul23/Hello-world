@@ -1,2 +1,3 @@
 # Hello-world
-put a file and data about project
+hello guys...
+I like to work on android as well java projects.. I have huge interest in android app development..
